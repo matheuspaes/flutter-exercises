@@ -1,16 +1,6 @@
 # box_layout
 
-A new Flutter project.
+Flutter challenge layout playing with Rows and Columns.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The challenge is build a layout like this:
+![Imagem do desafio](https://i.imgur.com/6IzSN36.png)
